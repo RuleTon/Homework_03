@@ -1,4 +1,4 @@
-package Homework03_05;
+package Homework_03_05;
 
 import java.util.concurrent.BrokenBarrierException;
 
